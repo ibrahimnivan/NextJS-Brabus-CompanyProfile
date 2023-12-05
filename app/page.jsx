@@ -6,7 +6,7 @@ import Link from "next/link";
 import Image from "next/image";
 
 
-const homePage = () => {
+const HomePage = () => {
   const [currentVideo, setCurrentVideo] = useState({
     number: 1,
     caption: "LEGENDS NEVER DIE.",
@@ -130,15 +130,15 @@ const homePage = () => {
           <div id="welcome" className="max-w-4xl mx-auto">
             <h2 className="xl:text-2xl text-lg mb-2 text-center ">Welcome to Brabus Tuning</h2>
             <p className="xl:text-lg text-base text-justify px-3">
-              At Brabus, we don't just modify cars; we elevate them to unprecedented levels of performance, luxury, and style. With a legacy rooted in precision engineering and a passion for automotive innovation, Brabus Tuning stands as a
+              At Brabus, we don&apos;t just modify cars; we elevate them to unprecedented levels of performance, luxury, and style. With a legacy rooted in precision engineering and a passion for automotive innovation, Brabus Tuning stands as a
               beacon of excellence in the world of high-performance vehicles.
             </p>
           </div>
           <div id="history" className="max-w-4xl mx-auto mt-6 mb-10">
             <h2 className="xl:text-2xl text-lg mb-2 text-center">Our Brief History</h2>
             <p className="xl:text-lg text-base text-justify px-3">
-              The company name was derived from the first three characters of the founders' surnames (<strong>Bra</strong>ckmann, <strong>Bus</strong>chmann). The company began with Bodo Buschmann wanting to customise his cars. Discovering
-              most existing customisers could not grasp his vision or meet his requirements, he started his own brand. Brabus GmbH was registered in 1977 in West Germany with Buschmann's friend Klaus Brackmann to satisfy German law
+              The company name was derived from the first three characters of the founders&apos; surnames (<strong>Bra</strong>ckmann, <strong>Bus</strong>chmann). The company began with Bodo Buschmann wanting to customise his cars. Discovering
+              most existing customisers could not grasp his vision or meet his requirements, he started his own brand. Brabus GmbH was registered in 1977 in West Germany with Buschmann&apos;s friend Klaus Brackmann to satisfy German law
               requiring a company to be established with at least two people.{" "}
             </p>
           </div>
@@ -204,21 +204,21 @@ const homePage = () => {
             <Image className="w-32 mx-auto py-4" src="/media-review/CarandDriver.png" width={128} height={128} alt="car & driver logo" />
             <p className="px-6 pb-6 ">
               In their latest review, Car and Driver Magazine showers praise on the Brabus 900 NLP 6x6 for its exceptional blend of power and refinement. The tech-savvy features, including comprehensive driver-assistance suite, left the
-              reviewers thoroughly impressed. Car and Driver concludes that the Brabus 900 NLP 6x6 isn't just a car; it's a driving revelation, setting a thrilling standard for the modern, tech-forward enthusiast.
+              reviewers thoroughly impressed. Car and Driver concludes that the Brabus 900 NLP 6x6 isn&apos;t just a car; it&apos;s a driving revelation, setting a thrilling standard for the modern, tech-forward enthusiast.
             </p>
           </div>
           <div id="card" className="w-[350px]  text-center bg-[#e9ecef] bg-opacity-75">
             <Image className="w-32 mx-auto py-4" src="/media-review/topGear.svg" width={128} height={128} alt="top gear logo" />
             <p className="px-6 pb-6 ">
-              TopGear Magazine's latest review of the 900 R is nothing short of a love letter to automotive excellence. The editors are raving about the jaw-dropping performance, describing the engine's roar as a symphony of power. The
-              cutting-edge technology leaves them spellbound, TopGear's verdict? 900 R is not just a car; it's a masterpiece on wheels, setting a new standard for performance and sophistication in the automotive world
+              TopGear Magazine&apos;s latest review of the 900 R is nothing short of a love letter to automotive excellence. The editors are raving about the jaw-dropping performance, describing the engine&apos;s roar as a symphony of power. The
+              cutting-edge technology leaves them spellbound, TopGear&apos;s verdict? 900 R is not just a car; it&apos;s a masterpiece on wheels, setting a new standard for performance and sophistication in the automotive world
             </p>
           </div>
           <div id="card" className="w-[350px]  text-center bg-[#e9ecef] bg-opacity-75">
             <Image className="w-32 mx-auto py-4" src="/media-review/motorTrend.png" width={128} height={128} alt="motor trend logo" />
             <p className="px-6 pb-6 ">
-              MotorTrend Magazine is giving the praises of the Brabus 750 Bodo Buschmann Edition, declaring it a triumph in automotive engineering. The review emphasizes the Brabus 750 Bodo Buschmann Edition's blistering performance, with
-              the roaring engine and precise handling turning every drive into a visceral adventure. The striking design doesn't just turn heads; it demands a second look. MotorTrend Magazine concludes that the Bodo Buschmann Edition
+              MotorTrend Magazine is giving the praises of the Brabus 750 Bodo Buschmann Edition, declaring it a triumph in automotive engineering. The review emphasizes the Brabus 750 Bodo Buschmann Edition&apos;s blistering performance, with
+              the roaring engine and precise handling turning every drive into a visceral adventure. The striking design doesn&apos;t just turn heads; it demands a second look. MotorTrend Magazine concludes that the Bodo Buschmann Edition
               ignites thrilling benchmark for performance enthusiasts.
             </p>
           </div>
@@ -236,4 +236,4 @@ const homePage = () => {
   );
 };
 
-export default homePage;
+export default HomePage;

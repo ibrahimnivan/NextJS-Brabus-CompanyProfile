@@ -23,14 +23,14 @@ function AboutUs() {
           <p className="max-w-4xl mx-auto xl:text-lg text-sm px-5">
             <br />
             <strong className="mr-2">Genesis (1977-1984)</strong>
-            Founded in 1977 by Bodo Buschmann, BRABUS emerged as a tuning company in Bottrop, Germany. The name "BRABUS" is derived from the first three characters of Bodo Buschmann's name and the city of Bottrop. The company started its
+            Founded in 1977 by Bodo Buschmann, BRABUS emerged as a tuning company in Bottrop, Germany. The name &quot;BRABUS&quot; is derived from the first three characters of Bodo Buschmann&apos;s name and the city of Bottrop. The company started its
             journey by specializing in the maintenance and enhancement of high-performance Mercedes-Benz vehicles. The commitment to precision and performance quickly gained attention, laying the foundation for what would become a global
             automotive phenomenon.
             <br />
             <br />
             <strong className="mr-2">The Birth of BRABUS (1984-1990)</strong>
-            In 1984, BRABUS celebrated a significant milestone with the introduction of the BRABUS 190, based on the Mercedes 190 E 3.2. This marked the beginning of BRABUS' transformation into a premier tuning company, elevating the
-            performance of Mercedes-Benz cars to unprecedented levels. The BRABUS 190 showcased the company's dedication to pushing the boundaries of automotive engineering.
+            In 1984, BRABUS celebrated a significant milestone with the introduction of the BRABUS 190, based on the Mercedes 190 E 3.2. This marked the beginning of BRABUS&apos; transformation into a premier tuning company, elevating the
+            performance of Mercedes-Benz cars to unprecedented levels. The BRABUS 190 showcased the company&apos;s dedication to pushing the boundaries of automotive engineering.
             <br />
             <br />
             <div className="history-background">
@@ -38,23 +38,23 @@ function AboutUs() {
             </div>
             <br />
             <strong className="mr-2">Power and Innovation (1990s)</strong>
-            As the 1990s unfolded, BRABUS solidified its reputation for combining luxury with extreme power. The BRABUS E V12, based on the Mercedes-Benz E-Class, made waves as the world's fastest sedan in 1996, reaching a top speed of 330
-            km/h. This era saw the introduction of the BRABUS V12 engines, showcasing the company's prowess in creating high-performance powertrains.
+            As the 1990s unfolded, BRABUS solidified its reputation for combining luxury with extreme power. The BRABUS E V12, based on the Mercedes-Benz E-Class, made waves as the world&apos;s fastest sedan in 1996, reaching a top speed of 330
+            km/h. This era saw the introduction of the BRABUS V12 engines, showcasing the company&apos;s prowess in creating high-performance powertrains.
             <br />
             <br />
             <strong className="mr-2">Beyond Boundaries (2000s)</strong>
             Entering the new millennium, BRABUS expanded its portfolio beyond Mercedes-Benz, offering tuning solutions for other luxury brands such as Maybach and Smart. The BRABUS ROCKET, based on the Mercedes-Benz CLS, gained
-            international acclaim for setting a new top speed record for sedans at 365.7 km/h in 2006. The company's commitment to innovation and speed reached new heights.
+            international acclaim for setting a new top speed record for sedans at 365.7 km/h in 2006. The company&apos;s commitment to innovation and speed reached new heights.
             <br />
             <br />
             <strong className="mr-2">Global Recognition (2010s)</strong>
             BRABUS continued to make waves in the automotive world throughout the 2010s. The BRABUS 800 E V12 Cabriolet, based on the Mercedes-Benz E-Class, showcased not only blistering performance but also luxurious craftsmanship. The
-            company's global presence expanded, with BRABUS becoming synonymous with exclusive, high-performance vehicles.
+            company&apos;s global presence expanded, with BRABUS becoming synonymous with exclusive, high-performance vehicles.
             <br />
             <br />
             <strong className="mr-2">Today and Tomorrow</strong>
-            In the present day, BRABUS stands as a pinnacle of automotive tuning, with a product range that spans from powerful sedans to opulent SUVs and beyond. The BRABUS ROCKET 900 "ONE OF TEN," unveiled in 2019, epitomizes the
-            company's commitment to pushing the limits of performance and exclusivity.
+            In the present day, BRABUS stands as a pinnacle of automotive tuning, with a product range that spans from powerful sedans to opulent SUVs and beyond. The BRABUS ROCKET 900 &quot;ONE OF TEN&quot; unveiled in 2019, epitomizes the
+            company&apos;s commitment to pushing the limits of performance and exclusivity.
             <br />
             <br />
             As BRABUS continues to evolve, the legacy of Bodo Buschmann lives on, driving the company to explore new frontiers in automotive tuning. With an unwavering dedication to power, precision, and luxury, BRABUS remains at the
@@ -82,7 +82,7 @@ function AboutUs() {
               <h3 className="text-center font-medium text-gray-700 text-2xl mt-5 mb-1">Zeynep Ozdemir</h3>
               <h4 className="text-center text-sm mb-3">CHIEF MARKETING OFFICER</h4>
               <p className="text-justify">
-                A maestro in crafting compelling narratives, Zeynep Ozdemir brings over 7 years of experience in the automotive marketing landscape. Their strategic vision has elevated Brabus's brand presence, creating a powerful resonance
+                A maestro in crafting compelling narratives, Zeynep Ozdemir brings over 7 years of experience in the automotive marketing landscape. Their strategic vision has elevated Brabus&apos;s brand presence, creating a powerful resonance
                 in the hearts of enthusiasts globally.
               </p>
             </div>
@@ -93,7 +93,7 @@ function AboutUs() {
               <h3 className="text-center font-medium text-gray-700 text-2xl mt-5 mb-1">Cameron Deatsch</h3>
               <h4 className="text-center text-sm mb-3">PRODUCTION MANAGER</h4>
               <p className="text-justify">
-                At the helm of the production division, [Production Director's Name] oversees the intricate process of bringing supercars to life. With [X] years of experience in high-end automotive manufacturing, they ensure that precision
+                At the helm of the production division, Cameron Deatsch oversees the intricate process of bringing supercars to life. With 10 years of experience in high-end automotive manufacturing, they ensure that precision
                 and quality define every step of the production journey.
               </p>
             </div>
@@ -129,7 +129,7 @@ function AboutUs() {
               <span className="font-medium">Kindness:</span> In the world of high-performance vehicles, our culture begins with kindness. We empathize with each team member, valuing their perspectives regardless of hierarchy. Whether working with colleagues or
               supporting our students on their journey, we prioritize compassion and understanding. <br />
               <br />
-              <span className="font-medium">Collaborative Compassion:</span> Hierarchies hold no sway in our commitment to empathy. From team members to managers, we foster a culture where everyone's voice is heard and valued. Our empathy extends beyond the workshop,
+              <span className="font-medium">Collaborative Compassion:</span> Hierarchies hold no sway in our commitment to empathy. From team members to managers, we foster a culture where everyone&apos;s voice is heard and valued. Our empathy extends beyond the workshop,
               resonating with the dreams and anxieties of our students as they embark on their supercar experience.
             </p>
           </div>
@@ -143,17 +143,17 @@ function AboutUs() {
               members. Breaking free from traditional workplace norms, we challenge the status quo and prioritize authenticity in our interactions.
               <br />
               <br />
-              <span className="font-medium">Feedback-Driven Culture:</span> Constructive feedback is the engine that propels us forward. Seeking feedback is not a weakness; it's a strength. We encourage open dialogue to fuel innovation and growth, ensuring every member
+              <span className="font-medium">Feedback-Driven Culture:</span> Constructive feedback is the engine that propels us forward. Seeking feedback is not a weakness; it&apos;s a strength. We encourage open dialogue to fuel innovation and growth, ensuring every member
               has a voice in shaping our collective success.
             </p>
           </div>
           <div className="max-w-4xl mx-auto mb-7 px-5">
             <h3 className="py-2 xl:text-xl text-base font-semibold mb-2">Uncompromising Standards</h3>
             <p className="xl:text-lg text-sm">
-              <span className="font-medium">Commitment to Excellence:</span> In the words of Walt Disney, "Around here, we try to be proud of every little piece of work we do." This sentiment echoes through every aspect of Brabus. Upholding the highest
+              <span className="font-medium">Commitment to Excellence:</span> In the words of Walt Disney, &quot;Around here, we try to be proud of every little piece of work we do.&quot; This sentiment echoes through every aspect of Brabus. Upholding the highest
               standards is not a choice but a way of life. It is a commitment to continuous improvement and a promise to deliver the utmost quality in every supercar we create. <br />
               <br />
-              <span className="font-medium">Shared Responsibility:</span> We don't just expect excellence from ourselves; we expect it from our colleagues, direct reports, and peers. By setting the bar high, we create a culture where exceptional performance becomes the
+              <span className="font-medium">Shared Responsibility:</span> We don&apos;t just expect excellence from ourselves; we expect it from our colleagues, direct reports, and peers. By setting the bar high, we create a culture where exceptional performance becomes the
               norm.
             </p>
           </div>

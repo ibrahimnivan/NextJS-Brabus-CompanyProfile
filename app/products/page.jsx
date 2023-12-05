@@ -30,7 +30,7 @@ const Products = () => {
               <Image className="w-6" src="/producsPage/satisfied-costumer/upquote.png" width={10} height={10} alt="quote" />
               <h2 className="ml-5 text-lg font-semibold">Cristiano Ronaldo</h2>
               <p className="ml-5">
-                Driving Brabus supercars is a thrill like no other. The perfect fusion of power and elegance makes every journey an exhilarating experience. It's not just a car; it's a statement of unmatched performance and style
+                Driving Brabus supercars is a thrill like no other. The perfect fusion of power and elegance makes every journey an exhilarating experience. It&apos;s not just a car; it&apos;s a statement of unmatched performance and style
               </p>
               <Image className="w-6 ml-auto" src="/producsPage/satisfied-costumer/downquote.png" width={10} height={10} alt="quote" />
             </div>
