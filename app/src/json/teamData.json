@@ -1,0 +1,98 @@
+[
+  {
+    "id": 12,
+    "name": "Steve Sordello",
+    "img": "Steve_Sordello.png",
+    "phone": "+1122334455",
+    "position": "Auto Design Team",
+    "email": "steve.sordello@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Enrique Salem",
+    "img": "Enrique_Salem.jpg",
+    "phone": "+9876543210",
+    "position": "Automotive Designer",
+    "email": "enrique.salem@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Mike Cannon Brookes",
+    "img": "Mike_Cannon-Brookes.jpg",
+    "phone": "+1122334455",
+    "position": "Project Manager",
+    "email": "mike.cannon-brookes@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Scott Farquhar",
+    "img": "Scott_Farquhar.jpg",
+    "phone": "+9988776655",
+    "position": "Vehicle Testing Specialist",
+    "email": "scott.farquhar@example.com"
+  },
+  {
+    "id": 1,
+    "name": "Arsenije Filipović",
+    "img": "Arsenije_Filipović.jpg",
+    "phone": "+1234567890",
+    "position": "Mechanical Engineer",
+    "email": "arsenije.filipovic@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Heather M Fernandez",
+    "img": "Heather_M_Fernandez.jpg",
+    "phone": "+1122334455",
+    "position": "Human Resources",
+    "email": "heather.fernandez@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Rich Wong",
+    "img": "Rich_Wong.jpg",
+    "phone": "+9988776655",
+    "position": "Financial Analyst",
+    "email": "rich.wong@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Shona Brown",
+    "img": "Shona_Brown.jpg",
+    "phone": "+5544332211",
+    "position": "Operations Coordinator",
+    "email": "shona.brown@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Michelle Zatlyn",
+    "img": "Michelle_Zatlyn.jpg",
+    "phone": "+1122334455",
+    "position": "Sales Representative",
+    "email": "michelle.zatlyn@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Sasan Goodarzi small",
+    "img": "Sasan_Goodarzi_small.jpg",
+    "phone": "+9988776655",
+    "position": "Customer Support",
+    "email": "sasan.goodarzi@example.com"
+  },
+  {
+    "id": 11,
+    "name": "Jay Parikh",
+    "img": "Jay_Parikh.jpg",
+    "phone": "+5544332211",
+    "position": "IT Administrator",
+    "email": "jay.parikh@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Fenno Schouwenaars",
+    "img": "Fenno_Schouwenaars.jpg",
+    "phone": "+5544332211",
+    "position": "Marketing Manager",
+    "email": "fenno.schouwenaars@example.com"
+  }
+]

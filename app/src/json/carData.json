@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "BRABUS 930",
+    "img": "brabus930.jpg",
+    "description": "Mercedes-AMG GT 63 S E-Performance",
+    "price": "$200,000",
+    "power_torque": "930 HP, 800 lb-ft",
+    "engine": "4.0L V8 twin-turbocharged"
+  },
+  {
+    "id": 2,
+    "name": "BRABUS 900 ROCKET R \"1 OF 25\"",
+    "img": "brabus900rocket.jpg",
+    "description": "Porsche 911 Turbo S Coupé",
+    "price": "$250,000",
+    "power_torque": "900 HP, 700 lb-ft",
+    "engine": "3.8L Flat-6 twin-turbocharged"
+  },
+  {
+    "id": 3,
+    "name": "BRABUS CRAWLER",
+    "img": "brabuscrawler.jpg",
+    "description": "High-Performance offroad-vehicle",
+    "price": "$150,000",
+    "power_torque": "600 HP, 650 lb-ft",
+    "engine": "4.5-L V8 single-supercharged"
+  },
+  {
+    "id": 4,
+    "name": "BRABUS 900 ROCKET EDITION",
+    "img": "brabusrocket900.jpg",
+    "description": "Mercedes-AMG GLE 63 S 4MATIC+",
+    "price": "$220,000",
+    "power_torque": "900 HP, 750 lb-ft",
+    "engine": "4.0L V8 twin-turbocharged"
+  },
+  {
+    "id": 5,
+    "name": "BRABUS 900",
+    "img": "brabus900maybach.jpg",
+    "description": "Mercedes-Maybach GLS 600",
+    "price": "$300,000",
+    "power_torque": "900 HP, 800 lb-ft",
+    "engine": "4.0L V8 twin-turbocharged"
+  },
+  {
+    "id": 6,
+    "name": "BRABUS XLP 800 6X6 ADVENTURE",
+    "img": "brabusxlp9006x6.jpg",
+    "description": "Mercedes-AMG G 63 (W463A)",
+    "price": "$400,000",
+    "power_torque": "800 HP, 700 lb-ft",
+    "engine": "4.0L V8 twin-supercharged"
+  },
+  {
+    "id": 7,
+    "name": "BRABUS 700",
+    "img": "brabusrollsroyce.jpg",
+    "description": "Rolls-Royce Ghost Extended",
+    "price": "$500,000",
+    "power_torque": "700 HP, 750 lb-ft",
+    "engine": "6.75L V12 twin-turbocharged"
+  },
+  {
+    "id": 8,
+    "name": "BRABUS 600",
+    "img": "brabus600maybach.jpg",
+    "description": "Mercedes-Maybach S 580",
+    "price": "$280,000",
+    "power_torque": "600 HP, 650 lb-ft",
+    "engine": "4.0L V8 twin-turbocharged"
+  },
+  {
+    "id": 9,
+    "name": "BRABUS 820",
+    "img": "brabus820cabriolet.jpg",
+    "description": "Porsche 911 Turbo S Cabriolet",
+    "price": "$270,000",
+    "power_torque": "820 HP, 700 lb-ft",
+    "engine": "3.8L Flat-6 single-turbocharged"
+  }
+]
