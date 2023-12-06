@@ -44,7 +44,7 @@ const Sidebar = () => {
           </Link>
         </li>
         <li className="w-1/2 mt-14 ml-[20%] text-shadow-black xl:text-base text-sm hover:text-indigo-800">
-          <a className="text-gray-800" href="#contact">Language</a>
+          <p className="text-gray-800" >Language</p>
         </li>
       </ul>
     </div>

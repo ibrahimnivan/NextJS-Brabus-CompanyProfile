@@ -8,8 +8,8 @@ const Footer = () => {
           <div id="grid1" className="w-[85%] xl:border-none border-b-2 border-gray-600 pb-3">
             <div className="flex flex-col justify-center items-center">
               <Link href="/teams" className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">OUR TEAM</Link>
-              <a className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">PRIVACY POLICY</a>
-              <a className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">COOKIE SETTINGS</a>
+              <p className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">PRIVACY POLICY</p>
+              <p className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">COOKIE SETTINGS</p>
             </div>
             <div className="">
               <a
@@ -29,8 +29,8 @@ const Footer = () => {
           <div id="grid2" className="w-[85%] xl:border-none border-b-2 border-gray-600 pb-3">
             <div className="flex flex-col justify-center items-center">
               <Link href="/about-us" className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">ABOUT US</Link>
-              <a className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">FIND A DEALER</a>
-              <a className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">CAREER</a>
+              <p className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">FIND A DEALER</p>
+              <p className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">CAREER</p>
             </div>
             <div className="">
               <a
@@ -50,9 +50,9 @@ const Footer = () => {
           </div>
           <div id="grid3" className="w-[85%] xl:border-none border-b-2 border-gray-600 pb-3">
             <div className="flex flex-col justify-center items-center">
-              <a className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">CONTACT</a>
-              <a className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">LOG IN</a>
-              <a className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">LATEST NEWS</a>
+              <p className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">CONTACT</p>
+              <p className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">LOG IN</p>
+              <p className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">LATEST NEWS</p>
             </div>
             <div className="">
               <a
