@@ -54,7 +54,7 @@ const HomePage = () => {
           </a>
         </div>
         <div className='absolute top-[83%] left-1/2 transform -translate-x-1/2  flex justify-center mt-4 mx-auto'>
-          <button
+          <button aria-label="home page segment button"
             onClick={() =>
               handleButtonClick(
                 1,
@@ -67,7 +67,7 @@ const HomePage = () => {
           >
             <span className='block h-[5px] w-8 bg-slate-300 hover:bg-orange-700'></span>
           </button>
-          <button
+          <button aria-label="home page segment button"
             onClick={() =>
               handleButtonClick(
                 2,
@@ -80,7 +80,7 @@ const HomePage = () => {
           >
             <span className='block h-[5px] w-8 bg-slate-300 hover:bg-orange-700'></span>
           </button>
-          <button
+          <button aria-label="home page segment button"
             onClick={() =>
               handleButtonClick(
                 3,
@@ -198,7 +198,7 @@ const HomePage = () => {
       </section>
       <section id="media-review" className="bg-testimonials-background">
         <h2 className="text-center xl:pt-24 pt-10 font-semibold text-gray-700 text-2xl xl:text-4xl">MEDIA REVIEW</h2>
-        <h6 className="text-center text-xs">(Testimonials)</h6>
+        <h3 className="text-center text-xs">(Testimonials)</h3>
         <div id="cards" className="flex flex-row flex-wrap xl:mt-36 mt-10 justify-center gap-5 px-5 pb-24">
           <div id="card" className="w-[350px]  text-center bg-[#e9ecef] bg-opacity-75">
             <Image className="w-32 mx-auto py-4" src="/media-review/CarandDriver.png" width={128} height={128} alt="car & driver logo" />

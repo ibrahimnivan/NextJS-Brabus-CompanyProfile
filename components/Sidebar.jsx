@@ -19,7 +19,7 @@ const Sidebar = () => {
 
   return (
     <div className={`sidebar ${isSidebarOpen ? "open" : ""} xl:left-[-220px] xl:w-[220px] left-[-160px] w-[160px]  z-10`}>
-      <button className="toggle-btn bg-none border-none text-gray-900 cursor-pointer text-xl mb-2 xl:ml-20 ml-8 mt-5" onClick={toggleSidebar}>
+      <button aria-label="hamburger button" className="toggle-btn bg-none border-none text-gray-900 cursor-pointer text-xl mb-2 xl:ml-20 ml-8 mt-5" onClick={toggleSidebar}>
         {isSidebarOpen ? "✕" : hamburgerline}
       </button>
       <ul className="mt-12 w-full">
