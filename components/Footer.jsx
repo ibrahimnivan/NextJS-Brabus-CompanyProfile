@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 justify-items-center">
           <div id="grid1" className="w-[85%] xl:border-none border-b-2 border-gray-600 pb-3">
             <div className="flex flex-col justify-center items-center">
-              <Link href="/ourteam" className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">OUR TEAM</Link>
+              <Link href="/teams" className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">OUR TEAM</Link>
               <a className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">PRIVACY POLICY</a>
               <a className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">COOKIE SETTINGS</a>
             </div>
@@ -28,7 +28,7 @@ const Footer = () => {
           </div>
           <div id="grid2" className="w-[85%] xl:border-none border-b-2 border-gray-600 pb-3">
             <div className="flex flex-col justify-center items-center">
-              <Link href="/about" className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">ABOUT US</Link>
+              <Link href="/about-us" className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">ABOUT US</Link>
               <a className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">FIND A DEALER</a>
               <a className="block hover:text-orange-500 text-base text-black xl:text-lg mb-4">CAREER</a>
             </div>

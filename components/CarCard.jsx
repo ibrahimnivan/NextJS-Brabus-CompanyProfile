@@ -1,7 +1,3 @@
-// import engineLogo from "../assets/engine.png";
-// import powerLogo from "../assets/power.png";
-// import React from "react";
-
 import Image from "next/image";
 
 const CarCard = ({ id, name, img, description, powerTorque, engine, price }) => {
@@ -12,11 +8,11 @@ const CarCard = ({ id, name, img, description, powerTorque, engine, price }) => 
       <p className="text-sm xl:text-base text-gray-600 pb-2">{description}</p>
       <p className="text-sm xl:text-base text-gray-600 pb-2">{price}</p>
       <p className="text-sm xl:text-base text-gray-600">
-        <Image className="inline-block h-4 mr-2" width={20} height={20} src="/producsPage/icon/engine.png" alt="engile-logo" />
-        {engine}{" "}
+        <Image className="inline-block h-4 mr-3" width={17} height={20} src="/producsPage/icon/engine.png" alt="engile-logo" />
+        {engine}
       </p>
       <p className="text-sm xl:text-base text-gray-600">
-        <Image className="inline-block h-4 mr-2" width={20} height={20} src="/producsPage/icon/power.png" alt="power and torque" /> {powerTorque}
+        <Image className="inline-block h-4 mr-2" width={17} height={20} src="/producsPage/icon/power.png" alt="power and torque" /> {powerTorque}
       </p>
     </div>
   );
